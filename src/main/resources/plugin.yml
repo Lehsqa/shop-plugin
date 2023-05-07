@@ -1,0 +1,13 @@
+name: ShopPlugin
+version: 1.0
+main: ShopPlugin
+commands:
+  sell:
+    description: Sell an item
+    usage: /sell <price>
+  shop:
+    description: Open the shop GUI
+    usage: /shop
+  buy:
+    description: Buy an item from the shop
+    usage: /buy <id>
